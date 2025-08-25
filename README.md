@@ -48,7 +48,7 @@ Faturamento por Produto
 
 Mochila, Mala, Tênis, Boné, Garrafa, Bolsa, Carteira e Fone
 
-📈 Principais Insights
+Principais Insights
 
 🔹 A maior parte das vendas foi realizada via Cartão de Crédito (66%), seguida por Transferência/PIX (34%).
 🔹 A Matriz foi a unidade com maior faturamento.
@@ -57,7 +57,7 @@ Mochila, Mala, Tênis, Boné, Garrafa, Bolsa, Carteira e Fone
 🔹 O Ticket Médio ficou em $8.6 mil.
 🔹 O faturamento total analisado foi de $2.2 milhões.
 
-🛠️ Ferramentas Utilizadas
+Ferramentas Utilizadas
 
 Power BI Desktop → Criação e modelagem do dashboard.
 
